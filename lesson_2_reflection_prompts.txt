@@ -14,8 +14,10 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 Using git status I can see the files added to the staging area thus I can set a logical change in one commit setting all the files that are necessary
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Making new language version, testing some experimental feature. New branches make the history more organised separeting in logical sence master branch with those experimental.
+
 
 How do the diagrams help you visualize the branch structure?
 
