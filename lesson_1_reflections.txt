@@ -1,0 +1,39 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+Viewing a diff betweeen two versions helped me to compare and filter easily the date. I could deduct conclusion much faster. The tool diff navigates towards differeneces thus was focusing my attention on the right place.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+- I could find bugs in the shorter period of time.
+- I could have better understanding of development process, and 
+the progress I'm making in the project
+- I could easily compare different approaches to the subject
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+   git: pros, while working on a project, cons, while working on a document 
+   Google: the opposite
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+- Saving multiple files in one commit gives an opportunity to have the whole project progress in control, not only seperated files
+
+ 
+How can you use the commands git log and git diff to view the history of files?
+
+    Firstly, I can use git log to look throught the entire history of the commits to find an interesting commit to analyse, then I would compare it with the next another one, later/earlier commit using diff command
+
+How might using version control make you more confident to make changes that
+could break something?
+
+	I can always get back to previeus commits using git checkout commitId and once I found buggy commit I can compare it with the previous notbuggy version using simply git diff bugg notbuggy 
+    I can always make a branch and test it in a not production branch
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+  I want to use it in my Android/Webdevelopment/Python/MachineLearning/Server projects
