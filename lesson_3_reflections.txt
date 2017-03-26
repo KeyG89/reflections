@@ -18,3 +18,7 @@
 
 fast forward merging?
 
+* How would you collaborate without using Git or GitHub? Wat would be easier, and what would be harder.
+
+- collaboration through working in the same place, at the same time, easier to communicate about conflicts, harder in case of working in other place in another time
+
