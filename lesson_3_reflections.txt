@@ -22,3 +22,7 @@ fast forward merging?
 
 - collaboration through working in the same place, at the same time, easier to communicate about conflicts, harder in case of working in other place in another time
 
+* When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I would be collaborating with other people and it would be a huge benefit. 
+
